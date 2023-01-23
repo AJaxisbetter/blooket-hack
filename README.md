@@ -1,3 +1,5 @@
+# Support discord server: https://discord.gg/y9rs4BzHm2
+
 # The Blooket Hack
 
 **The blooket hack provided by [gliz](https://twitter.com/therealglixzzy)**
