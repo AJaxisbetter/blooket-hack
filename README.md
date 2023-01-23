@@ -18,7 +18,7 @@ If you are a programmer and want to make your own stuff for blooket make sure to
 
 Blooket Hack v1.0
 
-- **View all the changelogs [here](https://github.com/therealglixzzy/blooket-hacks/blob/main/CHANGELOG.md
+- **View all the changelogs [here](https://github.com/therealglixzzy/blooket-hacks/blob/main/CHANGELOG.md)
 
 # Usage
 
