@@ -1,3 +1,5 @@
+# Support discord server: https://discord.gg/y9rs4BzHm2
+
 # global
 
 All these cheats in the folder can be used outside games
