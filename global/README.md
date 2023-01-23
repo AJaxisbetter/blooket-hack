@@ -1,5 +1,3 @@
-# Support discord server: https://glizzers.xyz/discord
-
 # global
 
 All these cheats in the folder can be used outside games
